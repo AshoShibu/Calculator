@@ -1,8 +1,0 @@
-// UserInput.java
-
-import java.util.*;
-class UserInput{
-	int[] userInput(){
-	int[] numbers = new int[2];
-	}
-}
